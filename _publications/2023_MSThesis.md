@@ -1,0 +1,14 @@
+---
+title: "Push Recovery for Humanoid Robots using Linearized Double Inverted Pendulum"
+collection: ProQuest
+permalink: /publication/2023_MSThesis
+excerpt: 'explanation.'
+date: 2020-06-07
+venue: 'ProQuest'
+paperurl: 'https://repository.rit.edu/theses/10512/'
+citation: 'S. Singh and J. Heard, “Human-aware reinforcement learning for adaptive human robot teaming,” in Proceedings of the 2022 ACM/IEEE
+International Conference on Human-Robot Interaction, ser. HRI ’22. IEEE Press, 2022, p. 1049–1052.'
+---
+Biped robots have come a long way in imitating a human being's anatomy and posture. Standing balance and push recovery are some of the biggest challenges for such robots. This work presents a novel balance control scheme for a humanoid robot to recover from external disturbances. The proposed Linearized Double Inverted Pendulum, models the dynamics of a complex humanoid robot. The joint torque signals are generated along with ankle torque constraints to ensure the Center of Pressure stays within the support polygon. Simulation results show that the presented model can successfully recover from external disturbances while using minimal effort when compared to other widely used simplified models. It optimally uses the the torso weight to generate angular moment of inertia about the pelvis of the robot to counter-balance the effects of external disturbances. The proposed method was validated on simulated TigerBot-VII, a humanoid robot.
+![Linearized Double Inverted Pendulum Model.](\../images/LDIP-robot.png)
+![Gazebo simulation response with constrained LQR on LDIP model to an impulsive disturbances that changes velocity of pelvis from rest to 0.35m/s.](\../images/Gazebo_sim_horizontal.png)
