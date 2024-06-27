@@ -7,17 +7,20 @@ redirect_from:
   - /teaching_exp.html
 ---
 
-## Graduate Teaching Assistant, Department of Electrical & Microelectronics Engineering, Rochester Institute of Technology
+## Rochester Institute of Technology, NY
+*Graduate Teaching Assistant*, Department of Electrical & Microelectronics Engineering, 
 
+### EEEE-536/636: Biorobotics/Cybernetics, Spring 2022
+* This course presented material related to the study of cybernetics as well as the aspects of robotics and controls associated with applications of a biological nature.
 * Created and modified the course labs to meet students’ needs and coures objectives.
 * Taught and graded the lab sessions.
 * Supported students throughout their course projects.
 
-### EEEE-536/636: Biorobotics/Cybernetics, Spring 2022
-* This course presented material related to the study of cybernetics as well as the aspects of robotics and controls associated with applications of a biological nature.
-
 ### EEEE-585/685: Principles of Robotics, Fall 2020 & Fall 2019
-* ABC
+* This course introducted a wide range of robotics-related topics, including but not limited to sensors, interface design, robot devices applications, mobile robots, intelligent navigation, task planning, and coordinate systems.
+* Created and modified the course labs to meet students’ needs and coures objectives.
+* Taught and graded the lab sessions.
+* Supported students throughout their course projects.
 
 
 
