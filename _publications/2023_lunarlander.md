@@ -2,7 +2,7 @@
 title: "Probabilistic Policy Blending for Shared Autonomy using Deep Reinforcement Learning"
 collection: IEEE Xplore
 permalink: /publication/2023_lunarlander
-excerpt: 'explanation.'
+excerpt: 'This work introduces a probabilistic policy blending approach for shared control between a human operator and an intelligent agent, demonstrating effective assistance levels using the Lunar Lander game and analyzing the correlation between human physiological data, arbitration level, and task performance.'
 date: 2023-08-28
 venue: '2023 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)'
 paperurl: 'https://ieeexplore.ieee.org/document/10309604'

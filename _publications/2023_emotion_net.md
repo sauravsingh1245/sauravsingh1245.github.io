@@ -2,7 +2,7 @@
 title: "Spatial and Temporal Attention-based emotion estimation on HRI-AVC dataset"
 collection: IEEE Xplore
 permalink: /publication/2023_emotion_net
-excerpt: 'explanation.'
+excerpt: 'This paper introduces the HRI-AVC dataset, featuring self-reported emotional measures from human-robot interactions, and proposes an attention-based network for estimating human emotion through arousal and valence from image frames in real-time.'
 date: 2023-10-01
 venue: '2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10394066'
