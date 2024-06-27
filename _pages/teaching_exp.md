@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## Graduate Teaching Assistant
-Department of Electrical & Microelectronics Engineering, Rochester Institute of Technology, Rochester, NY
+Department of Electrical & Microelectronics Engineering
+Rochester Institute of Technology, Rochester, NY
 
 ### EEEE-536/636: Biorobotics/Cybernetics, Spring 2022
 * This course presented material related to the study of cybernetics as well as the aspects of robotics and controls associated with applications of a biological nature.
