@@ -5,7 +5,7 @@ permalink: /publication/2022_fatigue
 excerpt: 'This paper presents a multimodal approach to classify mental and physical fatigue for adaptive intelligent systems, aiming to optimize team performance by adapting to human fatigue levels.'
 date: 2022-06-07
 venue: '2022 17th Annual System of Systems Engineering Conference (SOSE)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9812694'
+paperurl: 'http://sauravsingh1245.github.io/files/2022_fatigue.pdf'
 citation: 'L. Nagahanumaiah, S. Singh and J. Heard, “Diagnostic Human Fatigue Classification using Wearable Sensors for Intelligent Systems,” 2022
 17th Annual System of Systems Engineering Conference (SOSE), 2022, pp. 424-429.'
 ---

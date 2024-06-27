@@ -5,7 +5,7 @@ permalink: /publication/2022_matbLBR
 excerpt: 'This paper presents a reinforcement learning-based approach that leverages human workload states to adapt robot interactions, aiming to improve team performance in high-stress, multitasking environments like the NASA MATB-II task.'
 date: 2022-03-07
 venue: '2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)'
-paperurl: 'https://ieeexplore.ieee.org/abstract/document/9889530'
+paperurl: 'http://sauravsingh1245.github.io/files/2022_matbLBR.pdf'
 citation: 'S. Singh and J. Heard, “Human-aware reinforcement learning for adaptive human robot teaming,” in Proceedings of the 2022 ACM/IEEE
 International Conference on Human-Robot Interaction, ser. HRI ’22. IEEE Press, 2022, p. 1049–1052.'
 ---

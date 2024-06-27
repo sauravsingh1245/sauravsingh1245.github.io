@@ -5,7 +5,7 @@ permalink: /publication/2023_limitedfusion
 excerpt: 'This paper presents a two-phase multi-stream fusion approach for training networks with limited multimodal data, addressing the challenges of collecting paired data and demonstrating improved performance on the NTIRE-21 dataset.'
 date: 2023-06-13
 venue: 'Big Data V: Learning, Analytics, and Applications, SPIE, 2023'
-paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12522/1252206/Multimodal-aerial-view-object-classification-with-disjoint-unimodal-feature-extraction/10.1117/12.2664041.short#_=_'
+paperurl: 'http://sauravsingh1245.github.io/files/2023_limitedfusion.pdf'
 citation: 'S. Singh, M. Sharma, J. Heard, J. D. Lew, E. Saber, and P. P. Markopoulos, “Multimodal aerial view object classification with disjoint
 unimodal feature extraction and fully-connected-layer fusion,” in Big Data V: Learning, Analytics, and Applications, vol. 12522, p. 1252206,
 SPIE, 2023.'

@@ -5,7 +5,7 @@ permalink: /publication/2020_MSThesis
 excerpt: 'This paper presents a novel balance control scheme using a Linearized Double Inverted Pendulum model to enhance a humanoid robot's recovery from external disturbances, validated on the simulated TigerBot-VII.'
 date: 2020-06-07
 venue: 'ProQuest'
-paperurl: 'https://repository.rit.edu/theses/10512/'
+paperurl: 'http://sauravsingh1245.github.io/files/2020_MSThesis.pdf'
 citation: 'S. Singh, “Push Recovery for Humanoid Robots using Linearized Double Inverted Pendulum,” Research Master Thesis, Rochester Institute of Technology, Rochester, NY, 2020.'
 ---
 Biped robots have come a long way in imitating a human being's anatomy and posture. Standing balance and push recovery are some of the biggest challenges for such robots. This work presents a novel balance control scheme for a humanoid robot to recover from external disturbances. The proposed Linearized Double Inverted Pendulum, models the dynamics of a complex humanoid robot. The joint torque signals are generated along with ankle torque constraints to ensure the Center of Pressure stays within the support polygon. Simulation results show that the presented model can successfully recover from external disturbances while using minimal effort when compared to other widely used simplified models. It optimally uses the the torso weight to generate angular moment of inertia about the pelvis of the robot to counter-balance the effects of external disturbances. The proposed method was validated on simulated TigerBot-VII, a humanoid robot.
