@@ -15,6 +15,7 @@ redirect_from:
 
 ### EEEE-536/636: Biorobotics/Cybernetics, Spring 2022
 * This course presented material related to the study of cybernetics as well as the aspects of robotics and controls associated with applications of a biological nature.
+
 ### EEEE-585/685: Principles of Robotics, Fall 2020 & Fall 2019
 * ABC
 
