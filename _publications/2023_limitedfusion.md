@@ -6,6 +6,7 @@ excerpt: 'This paper presents a two-phase multi-stream fusion approach for train
 date: 2023-06-13
 venue: 'Big Data V: Learning, Analytics, and Applications, SPIE, 2023'
 paperurl: 'http://sauravsingh1245.github.io/files/2023_limitedfusion.pdf'
+slidesurl: 'http://sauravsingh1245.github.io/files/2023_limitedfusion_Slides.pdf'
 citation: 'S. Singh, M. Sharma, J. Heard, J. D. Lew, E. Saber, and P. P. Markopoulos, “Multimodal aerial view object classification with disjoint
 unimodal feature extraction and fully-connected-layer fusion,” in Big Data V: Learning, Analytics, and Applications, vol. 12522, p. 1252206,
 SPIE, 2023.'

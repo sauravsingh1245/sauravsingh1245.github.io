@@ -6,6 +6,7 @@ excerpt: 'This paper presents a reinforcement learning-based approach that lever
 date: 2022-03-07
 venue: '2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)'
 paperurl: 'http://sauravsingh1245.github.io/files/2022_matbLBR.pdf'
+slidesurl: 'http://sauravsingh1245.github.io/files/2022_matbLBR_Slides.pdf'
 citation: 'S. Singh and J. Heard, “Human-aware reinforcement learning for adaptive human robot teaming,” in Proceedings of the 2022 ACM/IEEE
 International Conference on Human-Robot Interaction, ser. HRI ’22. IEEE Press, 2022, p. 1049–1052.'
 ---
