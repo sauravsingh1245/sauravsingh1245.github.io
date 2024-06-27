@@ -1,10 +1,10 @@
 ---
-permalink: /teaching_exp/
+permalink: /teaching/
 title: "Teaching"
 author_profile: true
 redirect_from: 
   - /md/
-  - /teaching_exp.html
+  - /teaching.html
 ---
 
 ## Graduate Teaching Assistant
