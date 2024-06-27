@@ -1,7 +1,7 @@
 ---
 title: "Diagnostic Human Fatigue Classification using Wearable Sensors for Intelligent Systems"
 collection: IEEE Xplore
-permalink: /publication/2023_fatigue
+permalink: /publication/2022_fatigue
 excerpt: 'This paper presents a multimodal approach to classify mental and physical fatigue for adaptive intelligent systems, aiming to optimize team performance by adapting to human fatigue levels.'
 date: 2022-06-07
 venue: '2022 17th Annual System of Systems Engineering Conference (SOSE)'

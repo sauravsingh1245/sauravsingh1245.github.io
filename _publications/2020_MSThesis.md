@@ -1,7 +1,7 @@
 ---
 title: "Push Recovery for Humanoid Robots using Linearized Double Inverted Pendulum"
 collection: ProQuest
-permalink: /publication/2023_MSThesis
+permalink: /publication/2020_MSThesis
 excerpt: 'This paper presents a novel balance control scheme using a Linearized Double Inverted Pendulum model to enhance a humanoid robot's recovery from external disturbances, validated on the simulated TigerBot-VII.'
 date: 2020-06-07
 venue: 'ProQuest'

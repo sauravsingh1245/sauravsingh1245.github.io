@@ -1,7 +1,7 @@
 ---
 title: "Human-Aware Reinforcement Learning for Adaptive Human Robot Teaming"
 collection: IEEE Xplore
-permalink: /publication/2023_matbLBR
+permalink: /publication/2022_matbLBR
 excerpt: 'This paper presents a reinforcement learning-based approach that leverages human workload states to adapt robot interactions, aiming to improve team performance in high-stress, multitasking environments like the NASA MATB-II task.'
 date: 2022-03-07
 venue: '2022 17th ACM/IEEE International Conference on Human-Robot Interaction (HRI)'
