@@ -16,7 +16,8 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    # url: /cv/
+    url: /files/CV_Saurav_Singh.pdf
     
   - title: "Guide"
     url: /markdown/
