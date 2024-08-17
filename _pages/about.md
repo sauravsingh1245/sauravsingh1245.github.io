@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! I’m Saurav Singh, a dedicated Robotics and Artificial Intelligence researcher, currently completing my Ph.D. at Rochester Institute of Technology (RIT). My work sits at the intersection of robotics, machine learning, and human-robot collaboration, where I strive to make intelligent systems more adaptable and responsive to human needs.
+Welcome! I’m Saurav Singh, a dedicated Robotics and Artificial Intelligence researcher, currently completing my Ph.D. at Rochester Institute of Technology (RIT). My work sits at the intersection of robotics, machine learning, and human-robot collaboration, where I strive to make intelligent systems more adaptable and responsive to human needs.
 
 Throughout my academic journey, I’ve focused on developing cutting-edge technologies that enhance the interaction between humans and robots. My research delves into areas like reinforcement learning, multimodal fusion, and human-aware decision-making, all aimed at advancing the capabilities of robots in complex, dynamic environments. One of my primary goals is to bridge the gap between human intuition and robotic precision, making human-robot teams more effective and efficient.
 
