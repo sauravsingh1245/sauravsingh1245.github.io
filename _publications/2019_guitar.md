@@ -1,11 +1,11 @@
 ---
 title: "Electronic Guitar MIDI Controller for Various Musical Instruments Using Charlieplexing Method"
 collection: Springer
-permalink: /publication/2019_MU
+permalink: /publication/2019_guitar
 excerpt: 'This paper introduces an electronic guitar that enables musicians to play various instrument sounds using guitar notes, utilizing Charlieplexing and computer connectivity for a versatile and silent practice experience.'
 date: 2019-06-19
 venue: 'Innovations in Computer Science and Engineering: Proceedings of the Sixth ICICSE 2018'
-paperurl: 'http://sauravsingh1245.github.io/files/2019_MU.pdf'
+paperurl: 'http://sauravsingh1245.github.io/files/2019_guitar.pdf'
 citation: 'R. Devasia, A. Gupta, S. Sharma, S. Singh, and N. Rathee, “Electronic guitar midi controller for various musical instruments using charlieplexing method,” in Innovations in Computer Science and Engineering: Proceedings of the Sixth ICICSE 2018, pp. 315–325, Springer, 2019.'
 ---
 Music is nowadays, a way to learn for kids, passion for youth, and a mode of meditation for adults. The urge to be able to use different varieties of sounds for a creative composition of music is the biggest challenge for musicians, which is quite complicated as well as time-consuming task. To resolve this issue, this paper presents an approach to generate sounds of various musical instruments corresponding to the particular notes of a guitar. The fundamental principle behind the proposed work is that, though all the musical instruments play the same notes but have different timbre characteristics. The electronic guitar is designed in such a way that it enables a guitarist to play all kinds of instruments without physically learning them. The guitar is connected to a computer through a microcontroller. It has multiple input ports, a part of which acts as frets and remaining as strings. The number of input pins is far less than the actual number of frets and strings. The technique called Charlieplexing achieves it. The instrument to be played can be selected from the instruments listed in the software. After selecting a particular instrument, a guitarist can play it just like a conventional guitar. Computer connectivity also allows the guitarist to practice music with earphones making it a soundless device for others.
